@@ -26,7 +26,9 @@ I'm currently studying to become a Front-End Developer.
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-### languages and tools 
+### Languages and tools 
+
+**Korean🇰🇷, English🇬🇧**
 
 #### Front-End
 <img src="https://img.shields.io/badge/-Javascript-black?style=for-the-badge&logo=javascript"/> <img src="https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=html5"/> <img src="https://img.shields.io/badge/-CSS-black?style=for-the-badge&logo=css3"/> <img src="https://img.shields.io/badge/-SASS-black?style=for-the-badge&logo=sass"/> <img src="https://img.shields.io/badge/-react-black?style=for-the-badge&logo=react"/>  <img src="https://img.shields.io/badge/-react router-black?style=for-the-badge&logo=reactrouter"/>
@@ -42,7 +44,7 @@ I'm currently studying to become a Front-End Developer.
 - I love coding 🤖, architecture 🏛 and cities 🏙! 
 - I'm interested in everything that happens in cities.
 - I'm drawing landscapes 🏞
-- I'm going to learn to surfing 🏄‍♂️
+- I'm going to learn to surf 🏄‍♂️
 
 [![Seokjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodingGorani&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
