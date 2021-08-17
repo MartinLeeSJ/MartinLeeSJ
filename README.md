@@ -38,7 +38,7 @@ I'm currently studying to become a Front-End Developer.
 <img src="https://img.shields.io/badge/-typescript-white?style=for-the-badge&logo=typescript"/> <img src="https://img.shields.io/badge/-react native-white?style=for-the-badge&logo=react"/>
 
 ### ⚡ Fun fact
-- My major is architecture 🏛 
+- My major is an architecture 🏛 
 - I love coding 🤖, architecture 🏛 and cities 🏙! 
 - I'm interested in everything that happens in cities.
 - I'm drawing landscapes 🏞
