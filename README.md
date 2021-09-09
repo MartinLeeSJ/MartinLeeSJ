@@ -38,6 +38,7 @@ I'm currently studying to become a Front-End Developer.
 
 #### I'm currently learning...
 <img src="https://img.shields.io/badge/-typescript-white?style=for-the-badge&logo=typescript"/> <img src="https://img.shields.io/badge/-react native-white?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/-firebase-white?style=for-the-badge&logo=firebase"/>
 
 ### ⚡ Fun fact
 - My major is an architecture 🏛 
