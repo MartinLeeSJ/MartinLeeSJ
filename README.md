@@ -45,7 +45,7 @@ I'm currently studying to become a Front-End Developer.
 - I love coding 🤖, architecture 🏛 and cities 🏙! 
 - I'm interested in everything that happens in cities.
 - I'm drawing landscapes 🏞
-- I'm going to learn to surf 🏄‍♂️
+- I'm going to learn surfing 🏄‍♂️
 
 [![Seokjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodingGorani&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
