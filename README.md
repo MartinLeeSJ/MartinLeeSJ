@@ -19,7 +19,7 @@ I'm Seokjun Lee from South Korea. I'm passionate, positive and imaginative perso
 
 I'm currently studying to become a iOS Developer.
 
-<a href="https://www.instagram.com/seokjuun.i/" target="_blank">
+<a href="https://www.instagram.com/seokjuun.l/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 <a href="mailto:tjr2922@gmail.com">
