@@ -30,22 +30,11 @@ I'm currently studying to become a iOS Developer.
 
 **Korean🇰🇷, English🇬🇧**
 
-#### Front-End
-<img src="https://img.shields.io/badge/-Javascript-black?style=for-the-badge&logo=javascript"/> <img src="https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=html5"/> <img src="https://img.shields.io/badge/-CSS-black?style=for-the-badge&logo=css3"/> <img src="https://img.shields.io/badge/-SASS-black?style=for-the-badge&logo=sass"/> <img src="https://img.shields.io/badge/-react-black?style=for-the-badge&logo=react"/>  <img src="https://img.shields.io/badge/-react router-black?style=for-the-badge&logo=reactrouter"/>
-
-#### Back-End
-<img src="https://img.shields.io/badge/-Node.js-lightgrey?style=for-the-badge&logo=node.js"/> <img src="https://img.shields.io/badge/-mysql-lightgrey?style=for-the-badge&logo=mysql"/> <img src="https://img.shields.io/badge/-sequelize-lightgrey?style=for-the-badge&logo=sequelize"/>
 
 #### I'm currently learning...
-<img src="https://img.shields.io/badge/-typescript-white?style=for-the-badge&logo=typescript"/> <img src="https://img.shields.io/badge/-react native-white?style=for-the-badge&logo=react"/>
-<img src="https://img.shields.io/badge/-firebase-white?style=for-the-badge&logo=firebase"/>
+<img src="https://img.shields.io/badge/-swift-white?style=for-the-badge&logo=swift"/> <img src="https://img.shields.io/badge/-SwiftUI-white?style=for-the-badge&logo=swift-ui"/>
 
-### ⚡ Fun fact
-- My major is an architecture 🏛 
-- I love coding 🤖, architecture 🏛 and cities 🏙! 
-- I'm interested in everything that happens in cities.
-- I'm drawing landscapes 🏞
-- I'm going to learn surfing 🏄‍♂️
+
 
 [![Seokjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodingGorani&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
