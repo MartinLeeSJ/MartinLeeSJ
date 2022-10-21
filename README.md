@@ -36,7 +36,7 @@ I'm currently studying to become a iOS Developer.
 
 
 
-[![Seokjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodingGorani&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Seokjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=MartinLeeSJ&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 	
