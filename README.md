@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm Seokjun Lee from South Korea. I'm passionate, positive and imaginative person. 
 
-I'm currently studying to become a iOS Developer.
+I'm an iOS Developer.
 
 <a href="https://www.instagram.com/seokjuun.l/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
