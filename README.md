@@ -1,26 +1,35 @@
-## Hi I'm Seokjun 👋 Nice to meet you
+## Hi, I'm Seokjun! 👋 Nice to meet you.
 
-<!--
-**CodingGorani/CodingGorani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Seokjun Lee from South Korea, and I am an iOS Developer.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-I'm Seokjun Lee from South Korea. iOS Developer.
-
-<a href="https://www.instagram.com/seokjuun.l/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a href="https://www.linkedin.com/in/석준-이-a74366258/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-D14836?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:tjr2922@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
+<a href="https://www.instagram.com/seokjuun.l/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-D14836?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+### Projects
+- <a href="https://github.com/GoodVibeMinister/GukbapMinister">GukbapMinister</a> (<a href="https://apps.apple.com/kr/app/국밥부장관/id6445902309">➚AppStore</a>)
+- <a href="https://github.com/MartinLeeSJ/GongdeunTop">Monuti</a> (Currently in development)
+
+### Experiences
+- Like Lion App School (6 Months, Sep 2022 - Feb 2023)
+  - Learned Swift, SwiftUI, Networking, and more.
+
+- CodeStates BootCamp (6 Months, Mar 2021 - Aug 2021)
+  - Learned JavaScript, ReactJS, Algorithms, Database, Computer Science, and more.
+
+### Education
+- SungKyunKwan University
+  - Bachelor's Degree in Architecture (2015 - 2023)
+
+ 
+
+
+
+
 
