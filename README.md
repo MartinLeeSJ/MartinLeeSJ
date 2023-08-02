@@ -2,15 +2,8 @@
 
 I'm Seokjun Lee from South Korea, and I am an iOS Developer.
 
-<a href="https://www.linkedin.com/in/석준-이-a74366258/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-D14836?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:tjr2922@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-<a href="https://www.instagram.com/seokjuun.l/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-D14836?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
+### Skills
+Swift, Combine, Swift Concurrency, SwiftUI, UIKit, Firebase 
 
 ### Projects
 - <a href="https://github.com/GoodVibeMinister/GukbapMinister">GukbapMinister</a> (<a href="https://apps.apple.com/kr/app/국밥부장관/id6445902309">➚AppStore</a>)
@@ -26,7 +19,13 @@ I'm Seokjun Lee from South Korea, and I am an iOS Developer.
 ### Education
 - SungKyunKwan University
   - Bachelor's Degree in Architecture (2015 - 2023)
-
+### Contact
+<a href="https://www.linkedin.com/in/석준-이-a74366258/" target="_blank">
+  LinkedIn
+</a>,
+<a href="mailto:tjr2922@gmail.com">
+  Gmail
+</a>
  
 
 
