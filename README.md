@@ -3,7 +3,10 @@
 I'm Seokjun Lee from South Korea, and I am an iOS Developer.
 
 ### Skills
-Swift, Combine, Swift Concurrency, SwiftUI, UIKit, Firebase 
+#### Strong
+Swift, SwiftUI, Combine, UIKit, Firebase 
+#### Learning
+Swift Concurrency, SnapKit, TCA
 
 ### Projects
 - <a href="https://github.com/GoodVibeMinister/GukbapMinister">GukbapMinister</a> (<a href="https://apps.apple.com/kr/app/국밥부장관/id6445902309">➚AppStore</a>)
