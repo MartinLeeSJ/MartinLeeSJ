@@ -7,14 +7,14 @@ I'm Seokjun Lee from South Korea, and I am an iOS Developer.
 Swift, SwiftUI, Firebase, UIKit
 
 #### Knowledgable
-Combine, Code Based UI
+Combine, Code Based UI, MVVM
 
 #### Learning
-Swift Concurrency, SnapKit, TCA
+Swift Concurrency, SnapKit, TCA, Clean Architecture 
 
 ### Projects
 - <a href="https://github.com/GoodVibeMinister/GukbapMinister">GukbapMinister</a> (<a href="https://apps.apple.com/kr/app/국밥부장관/id6445902309">➚AppStore</a>)
-- <a href="https://github.com/MartinLeeSJ/GongdeunTop">Monuti</a> (Currently in development)
+- <a href="https://github.com/MartinLeeSJ/GongdeunTop">Monuti</a> (Currently in development v 0.9.4)
 
 ### Experiences
 - Like Lion App School (6 Months, Sep 2022 - Feb 2023)
