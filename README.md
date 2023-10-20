@@ -15,7 +15,7 @@ Swift Concurrency, TCA, Clean Architecture
 ## 프로젝트
 - <a href="https://github.com/GoodVibeMinister/GukbapMinister">국밥부장관</a> (<a href="https://apps.apple.com/kr/app/국밥부장관/id6445902309">➚앱스토어 v 1.0.1</a>)
 - <a href="https://github.com/MartinLeeSJ/GongdeunTop">모누티</a> (현재 개발중, 테스트플라이트 클로즈드 베타테스트 v 0.9.4)
-- <a href="https://github.com/MartinLeeSJ/FlagQuiz">나라 맞추기 퀴즈</a> (현재 개발중)
+- <a href="https://github.com/MartinLeeSJ/FlagQuiz">국기보고 나라 알아맞히기 퀴즈</a> (현재 개발중)
 
 ## 교육 및 경험
 - 멋쟁이 사자처럼 앱스쿨 1기 (6개월, 2022 9월 - 2023 2월)
