@@ -22,7 +22,7 @@ Swift Concurrency, TCA, Clean Architecture
   - Swift, SwiftUI, Networking 등등 학습.
 
 - 코드스테이츠 소프트웨어 개발자 부트캠프 (6개월, 2021 3월 - 2021 8월)
-  - HTML/CSS/JavaScript, ReactJS의 프론트엔드 개발 수행, 자료구조, 알고리즘, 데이터베이스 등 컴퓨터공학 기초 학습.
+  - 프론트엔드 개발(HTML/CSS/JavaScript, ReactJS), 자료구조, 알고리즘, 데이터베이스 등 컴퓨터공학 기초 학습.
 
 - 성균관대학교 
   - 건축학(5년) 학사 (2015 - 2023)
