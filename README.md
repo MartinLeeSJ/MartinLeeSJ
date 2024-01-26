@@ -41,10 +41,7 @@ I'm Seokjun Lee from South Korea, and I am an iOS Developer.
 Swift, SwiftUI, UIKit(Code Based UI), Firebase, Combine
 
 #### Knowledgable
-MVVM
-
-#### Learning
-Swift Concurrency, TCA, Clean Architecture 
+MVVM, Swift Concurrency
 
 ## Projects
 - <a href="https://github.com/GoodVibeMinister/GukbapMinister">GukbapMinister</a> (<a href="https://apps.apple.com/kr/app/국밥부장관/id6445902309">➚AppStore</a>)
