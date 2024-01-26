@@ -38,10 +38,10 @@ I'm Seokjun Lee from South Korea, and I am an iOS Developer.
 
 ## Skills
 #### Strong
-Swift, SwiftUI, UIKit(Code Based UI), Firebase
+Swift, SwiftUI, UIKit(Code Based UI), Firebase, Combine
 
 #### Knowledgable
-Combine, MVVM
+MVVM
 
 #### Learning
 Swift Concurrency, TCA, Clean Architecture 
