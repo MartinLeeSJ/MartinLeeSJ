@@ -1,5 +1,5 @@
 # iOS Developer 이석준
-안녕하세요! 경험 1년차 iOS 개발자 이석준입니다. 개발을 통해 사람들의 다양한 삶을 더 나은 방향으로 바꾸는데 기여하고 싶습니다.
+안녕하세요! 1년차 iOS 개발자 이석준입니다. 개발을 통해 사람들의 다양한 삶을 더 나은 방향으로 바꾸는데 기여하고 싶습니다.
 
 ## 사용기술
 #### 애플
@@ -11,7 +11,7 @@ Firebase, OOP, MVC, MVVM, RestAPI, Figma, Git
 
 ## 프로젝트
 - <a href="https://github.com/GoodVibeMinister/GukbapMinister">국밥부장관</a> (<a href="https://apps.apple.com/kr/app/국밥부장관/id6445902309">➚앱스토어 v 1.0.1</a>)
-- <a href="https://github.com/MartinLeeSJ/GongdeunTop">모누티</a> (현재 개발중, 테스트플라이트 클로즈드 베타테스트 v 0.9.4)
+- <a href="https://github.com/MartinLeeSJ/GongdeunTop">모누티</a> 
 - <a href="https://github.com/MartinLeeSJ/FlagQuiz_JIGURI">지구리: 심심풀이 국기퀴즈</a> (<a href="https://apple.co/42NhUez">➚앱스토어 v 1.1.1</a>)
 
 ## 교육 및 경험
