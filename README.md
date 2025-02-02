@@ -1,15 +1,27 @@
 # iOS Developer 이석준
 안녕하세요! 1년차 iOS 개발자 이석준입니다. 개발을 통해 사람들의 다양한 삶을 더 나은 방향으로 바꾸는데 기여하고 싶습니다.
 
+## 경력
+- Tyrell Inc 주식회사 타이렐 iOS 개발자
+  - 2024.03 ~ 현재
+  - WebSocket 을 통한 AI Chat 앱 개발 
+    - <a href="https://apps.apple.com/kr/app/%ED%81%B4%EB%A0%88%ED%94%BC/id6471999588">Clapy</a>
+      - 마인드케어 AI 채팅앱
+      - 초기개발 프로젝트 개선
+    - <a href="https://apps.apple.com/kr/app/boopie-talk-play-grow/id6550910791">Boopie</a>
+      - 주제기반 AI 대화
+    - <a href="https://apps.apple.com/kr/app/%EC%B9%B4%EC%9E%90-caza/id6738781851">CAZA</a>
+      - 맞춤형 AI Coaching To Do List
+
 ## 사용기술
-#### 애플
+#### 1st party
 Swift, SwiftUI, Combine, Swift Concurrency, UIKit(Code-Based UI), CoreData
 
-#### 기타
+#### etc
 Firebase, OOP, MVC, MVVM, RestAPI, Figma, Git
 
 
-## 프로젝트
+## 개인 프로젝트
 - <a href="https://github.com/GoodVibeMinister/GukbapMinister">국밥부장관</a> (<a href="https://apps.apple.com/kr/app/국밥부장관/id6445902309">➚앱스토어 v 1.0.1</a>)
 - <a href="https://github.com/MartinLeeSJ/GongdeunTop">모누티</a> 
 - <a href="https://github.com/MartinLeeSJ/FlagQuiz_JIGURI">지구리: 심심풀이 국기퀴즈</a> (<a href="https://apple.co/42NhUez">➚앱스토어 v 1.1.1</a>)
@@ -35,15 +47,24 @@ Firebase, OOP, MVC, MVVM, RestAPI, Figma, Git
 
 Hello! I'm Lee Seok Jun, an iOS developer. 
 I want to contribute to changing people's diverse lives for the better through development.
-
+## Career
+- Tyrell Inc. — iOS Developer
+  - March 2024 – Present
+  - AI Chat Application Development Using WebSocket
+    - **Clapy** - <a href="https://apps.apple.com/kr/app/%ED%81%B4%EB%A0%88%ED%94%BC/id6471999588">MindCare AI Chat App</a>
+      - Contributed to the early-stage development and ongoing improvements of a mind care AI chat application.
+    - **Boopie** - <a href="https://apps.apple.com/kr/app/boopie-talk-play-grow/id6550910791">Topic-Based AI Conversation App</a>  
+      - Solely managed the initial development
+    - **CAZA** - <a href="https://apps.apple.com/kr/app/%EC%B9%B4%EC%9E%90-caza/id6738781851">Custom AI Coaching To-Do List App</a> 
+      - Solely managed the initial development
 ## Skills
-#### Apple
+#### 1st party
 Swift, SwiftUI, Combine, Swift Concurrency, UIKit(Code-Based UI), CoreData
 
 #### Etc.
 MVVM, Swift Concurrency
 
-## Projects
+## Personal Projects
 - <a href="https://github.com/GoodVibeMinister/GukbapMinister">GukbapMinister</a> (<a href="https://apps.apple.com/kr/app/국밥부장관/id6445902309">➚App Store v 1.0.1</a>)
 - <a href="https://github.com/MartinLeeSJ/GongdeunTop">Monuti</a> (Currently in development v 0.9.4)
 - <a href="https://github.com/MartinLeeSJ/FlagQuiz_JIGURI">FlagFrog</a> (<a href="https://apple.co/42NhUez">➚App Store v 1.1.1</a>)
